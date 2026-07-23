@@ -1,6 +1,5 @@
 """
 Sample script demonstrating two useful pandas techniques:
-
   1. Converting Excel to Parquet
        - Parquet is a columnar binary format: much smaller on disk,
          much faster to read/write, and preserves data types (Excel
