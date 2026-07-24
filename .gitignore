@@ -1,0 +1,11 @@
+# Virtual environment - never commit; recreate from requirements.txt
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Generated plot outputs
+random_forest_classification_results.png
+random_forest_regression_results.png
+logistic_regression_classification_results.png

@@ -1,0 +1,11 @@
+# Project dependencies. Recreate the environment on any machine with:
+#     py -m venv .venv
+#     .\.venv\Scripts\python.exe -m pip install -r requirements.txt
+#
+# These are the direct libraries used by the tutorial scripts.
+# pip will automatically pull in their sub-dependencies
+# (scipy, joblib, pillow, etc.).
+numpy==2.5.1
+pandas==3.0.5
+matplotlib==3.11.1
+scikit-learn==1.9.0
